@@ -2,8 +2,7 @@ import React, { useState } from "react";
 import Button from "../components/Button";
 import Header from "../components/Header";
 import { v4 as uuidv4 } from "uuid";
-import { useTheme } from "next-themes";;
-//rogit
+import { useTheme } from "next-themes";
 
 // Data
 import yourData from "../data/portfolio.json";
